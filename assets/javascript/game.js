@@ -33,7 +33,7 @@ var refresh = function() {
 
 // Initial total score display
 $(totalscore).html("Your total score is: " + total);
-    
+
 // Adding to total score based on user clicks, then running the check function to test the outcome
 $("#crystal1").on("click", function(){
     total += random1;

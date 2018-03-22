@@ -1,9 +1,9 @@
 body {
-	font-size: 18px;
-	font-weight:;
-	color: black;
-	background-color: purple;
-	background-image: url("http://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+    font-size: 18px;
+    font-family: 'Viga', sans-serif;
+    color:white;
+    text-shadow: 1px 1px 2px purple;
+	background-image: url('https://images.freecreatives.com/wp-content/uploads/2016/03/Crystal-Cave-background.jpg');
 }
 
 .numberbox {
@@ -18,10 +18,12 @@ body {
 	padding-bottom: 10px;
 }
 #totalscore {
-	background-color: gray;
+	background-color:purple;
 	padding-top: 10px;
     padding-bottom: 10px;
     width: 50%;
+    font-size: 20px;
+    text-shadow: 1px 1px 2px yellow;
 }
 #randomNumber {
 	font-size: 30px;
