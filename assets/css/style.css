@@ -1,0 +1,28 @@
+body {
+	font-size: 18px;
+	font-weight:;
+	color: black;
+	background-color: purple;
+	background-image: url("http://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+}
+
+.numberbox {
+	background-color: gold;
+	padding-top: 10px;
+    padding-bottom: 10px;
+    width: 50%;
+}
+
+.images {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#totalscore {
+	background-color: gray;
+	padding-top: 10px;
+    padding-bottom: 10px;
+    width: 50%;
+}
+#randomNumber {
+	font-size: 30px;
+}
